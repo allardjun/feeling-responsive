@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Header With Logo Only"
+title:  "Mathematical and computational modeling of cell and biomolecular mechanics"
 subheadline:  "Headers With Style"
 teaser: "Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background."
 categories:
