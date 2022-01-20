@@ -49,7 +49,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-    - jekyll-twitter-plugin #added by jun
+    #- jekyll-twitter-plugin #added by jun
 
 
 #       ____              _             __  _
