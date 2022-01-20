@@ -1,16 +1,25 @@
-{% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
+{% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and
+page.header.background-color == NULL and page.header.title == NULL %}
 
 <div id="masthead-no-image-header">
 	<div class="row">
-		<div class="small-12 columns" style="text-align: center;">
-			<a href="{{ '/' | absolute_url }}" title="{{ site.title }}">
-				<!--<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }}">-->
-				<span style="font-size: 22.5pt; font-weight: bold; color: black; font-family:supria-sans">ALLARD LAB @ UCI IRVINE</span><br>
-				<span style="font-size: 10pt; font-weight: bold; color: black; font-family:supria-sans">FOR MATHEMATICAL AND COMPUTATIONAL MODELING OF</span><br>
-				<span style="font-size: 14.9pt; font-weight: bold; color: black; font-family:supria-sans">CELL AND BIOMOLECULAR MECHANICS</span><br>
-			</a>
-		</div><!-- /.small-12.columns -->
-	</div><!-- /.row -->
+		<div class="small-12 small-centered columns">
+			<div style="display:table;width:100%;height:175px;">
+				<div style="display:table-cell;width:100%;vertical-align:middle;">
+					<div style="text-align:center;">
+						<a href="{{ '/' | absolute_url }}" title="{{ site.title }}">
+							<!--<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }}">-->
+							<span style="font-size: 22.5pt; font-weight: bold; color: black; font-family:supria-sans">ALLARD LAB @ UCI IRVINE</span><br>
+							<span style="font-size: 10pt; font-weight: bold; color: black; font-family:supria-sans">FOR MATHEMATICAL AND COMPUTATIONAL MODELING OF</span><br>
+							<span style="font-size: 14.9pt; font-weight: bold; color: black; font-family:supria-sans">CELL	AND BIOMOLECULAR MECHANICS</span><br>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
 </div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}
@@ -23,7 +32,8 @@
 
 {% elsif page.header.title %}
 
-<div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
+<div id="masthead-with-text"
+	style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
 	<div class="row">
 		<div class="small-12 columns">
 			<div class="masthead-title">{{ page.header.title }}</div>
@@ -55,7 +65,8 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
-				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}"
+					alt="{{ site.title }} – {{ site.slogan }}">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
