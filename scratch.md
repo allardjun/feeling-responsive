@@ -22,8 +22,22 @@ Colors are in _01_settings_colors.scss
 
 # TODO
 
-* Get images folder and urlimg working wtf.
-* Main page: Gutters for small-12, center Twitter feed. Dark-mode twitter feed.
+* [x] Main page: Gutters for small-12, center Twitter feed. Dark-mode twitter feed.
 
+* Get images folder and urlimg working wtf.
 * Can we improve the spacing in the title?
 * SEO verify ownership for googls: https://support.google.com/webmasters/answer/9008080?hl=en and bing https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b
+
+* Touch up the pub list typography, spacing
+* Add links to pub list to actual papers.
+
+* Repos in the software page
+https://github.com/lepture/github-cards
+
+* Rewrite intro paragraph. Our mission statement!
+* Rewrite Science paragraph
+* Fix people page
+
+* Copy to new repo, delete all unnecessary files.
+
+* What to do about lab manual.
