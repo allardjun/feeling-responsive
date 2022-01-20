@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page
+layout: page-fullwidth
 header:
   #image_fullwidth: header_unsplash_12.jpg
 # widget1:
@@ -44,12 +44,24 @@ permalink: /index.html
 homepage: true
 ---
 
+<div class="row">
+  <div class="columns small-12 medium-12 large-3">
+    <img src="{{ site.urlimg }}group19su.jpg">
+  </div>
+  <div class="columns small-12 medium-12 large-6">
+
+<section markdown="1">  
 Cells are nanometer-scale problem solving machines. Our broad goal is to understand how components inside cells push, pull, bend and flow together, and how this helps cells perform tasks and exploit problem solving strategies. We use mathematical and computational modeling, in collaboration with experimentalists at UC Irvine and around the world.
 
-We are a part of the Department of Mathematics, Department of Physics and Astronomy, the Center for Complex Biological Systems, the NSF-Simons Center for Multiscale Cell Fate Research,and the Chemical and Materials Physics (ChaMP) program at University of California Irvine.
+We are a part of the University of California, Irvine, [Department of Mathematics](https://www.math.uci.edu/), [Department of Physics and Astronomy](https://www.physics.uci.edu/), the [Center for Complex Biological Systems](https://ccbs.uci.edu/), the [NSF-Simons Center for Multiscale Cell Fate Research](cellfate.uci.edu), and the [Chemical and Materials Physics (ChaMP)]() program at University of California Irvine.
 
-We’re always interested in hearing from keen students interested in modeling cell mechanics. Prospective grad students should look into our PhD program in Mathematical, Computational and Systems Biology.
+We’re always interested in hearing from prospective graduate students and postdocs interested in modeling cell mechanics. Prospective grad students should look into our PhD program in [Mathematical, Computational and Systems Biology](https://ccbs.uci.edu/education/mcsb/).
 
+</section>
+
+  </div>
+  <div class="columns small-12 medium-12 large-3">Twitter feed</div>
+</div>
 
 
 
