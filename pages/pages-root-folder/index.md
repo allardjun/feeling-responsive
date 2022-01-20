@@ -60,7 +60,9 @@ We’re always interested in hearing from prospective graduate students and post
 </section>
 
   </div>
-  <div class="columns small-12 medium-12 large-3">Twitter feed</div>
+  <div class="columns small-12 medium-12 large-3">
+    {% twitter https://twitter.com/allardlab maxwidth=500 limit=5 %}
+  </div>
 </div>
 
 
