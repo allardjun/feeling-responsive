@@ -36,7 +36,7 @@ header:
 #   url: https://tinyletter.com/feeling-responsive
 #   text: Inform me about new updates and features ›
 #   style: alert
-permalink: /index.html
+permalink: /publications.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
@@ -48,19 +48,12 @@ homepage: true
   <div class="columns small-12 medium-12 large-7" style="text-align:justify">
 
 <section markdown="1">  
-Cells are nanometer-scale problem solving machines. Our broad goal is to understand how components inside cells push, pull, bend and flow together, and how this helps cells perform tasks and exploit problem solving strategies. We use mathematical and computational modeling, in collaboration with experimentalists at UC Irvine and around the world.
-
-<img src="{{ site.urlimg }}group19su.jpg">
-
-We are a part of the University of California, Irvine, the [Center for Complex Biological Systems](https://ccbs.uci.edu/), the [NSF-Simons Center for Multiscale Cell Fate Research](https://cellfate.uci.edu), [Department of Mathematics](https://www.math.uci.edu/), [Department of Physics and Astronomy](https://www.physics.uci.edu/), and the [Chemical and Materials Physics (ChaMP)](https://champ.uci.edu/) program.
-
-We’re always interested in hearing from prospective graduate students and postdocs interested in modeling cell mechanics. Prospective grad students should look into our PhD program in [Mathematical, Computational and Systems Biology](https://ccbs.uci.edu/education/mcsb/).
-
+Our papers!
 </section>
 
   </div>
   <div class="columns small-12 medium-12 large-5" style="text-align:center;">
-    <a class="twitter-timeline" data-width="250" data-height="800" data-dnt="true" data-theme="dark" href="https://twitter.com/allardlab?ref_src=twsrc%5Etfw" data-chrome="transparent noscrollbar">Tweets by allardlab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    another column
   </div>
 </div>
 
