@@ -61,7 +61,7 @@ We’re always interested in hearing from prospective graduate students and post
 
   </div>
   <div class="columns small-12 medium-12 large-3">
-    {% twitter https://twitter.com/allardlab maxwidth=500 limit=5 %}
+    <a class="twitter-timeline" data-width="250" data-height="600" data-dnt="true" data-theme="dark" href="https://twitter.com/allardlab?ref_src=twsrc%5Etfw">Tweets by allardlab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
 
