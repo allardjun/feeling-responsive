@@ -1,6 +1,6 @@
 #!/bin/bash
 
-original='faviconAWhite'
+original='Afavicon'
 
 for size in 32 57 180 152 144 120 114 76 72; 
 do
