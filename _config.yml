@@ -38,7 +38,8 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://allardjun.github.io/feeling-responsive/images/'
+#urlimg: 'https://allardjun.github.io/feeling-responsive/images/'
+urlimg: '/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
@@ -167,7 +168,7 @@ apple-touch-icon-120x120-precomposed : 'apple-touch-icon-120x120-precomposed.png
 apple-touch-icon-114x114-precomposed : 'apple-touch-icon-114x114-precomposed.png'
 apple-touch-icon-76x76-precomposed   : 'apple-touch-icon-76x76-precomposed.png'
 apple-touch-icon-72x72-precomposed   : 'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'
+apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'          #57x57
 msapplication_tileimage              : 'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor              : '#fabb00'
 
