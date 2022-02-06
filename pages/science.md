@@ -24,7 +24,7 @@ The mission of our research group is to make *rigorous, relevant and elegant* co
 </div>
 
 <div style="float:left;margin:20px">
-<blockquote class="twitter-tweet" data-width="250" data-dnt="true" data-theme="dark" data-chrome="transparent" color="#1D3038">
+<blockquote class="twitter-tweet" data-width="250" data-dnt="true" data-theme="dark" chrome="transparent">
 <p lang="en" dir="ltr">The power of Weighted Ensemble in spatial cell biology: Computationally access rare events, beyond the complexity we could do by asymptotics (<a href="https://t.co/tcHipxYaRN">https://t.co/tcHipxYaRN</a>), and beyond the rarity we could do by traditional timestepping. <a href="https://twitter.com/elizread?ref_src=twsrc%5Etfw">@elizread</a> <a href="https://t.co/kkcoGcBphi">pic.twitter.com/kkcoGcBphi</a></p>
 — allardlab (@allardlab) <a href="https://twitter.com/allardlab/status/1224418820204326912?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote>
 </div>

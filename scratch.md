@@ -33,7 +33,9 @@ Colors are in _01_settings_colors.scss
 
 * [x] Add links to pub list to actual papers.
 
-* My phd and MS thesis, and the photos.
+* [x] My phd and MS thesis, and the photos.
+
+* Pubs page does not work on Github, but works fine on local!
 
 * Repos in the software page
 https://github.com/lepture/github-cards
@@ -42,11 +44,11 @@ https://github.com/lepture/github-cards
 
 * [x] Rewrite Science paragraph
 
-* We need more tweets and statements about our science! PNAS from Omer.
+
 
 * People page - get centering working
 
-* Add photos of fun
+* [x] Add photos of fun
 
 * Add photos and info for people
 
@@ -66,5 +68,7 @@ https://github.com/lepture/github-cards
 * What to do about lab manual.
 
 ---
+
+* More tweets. Update Pubs. Both with 2x papers (Rob + Omer We need more tweets and statements about our science! PNAS from Omer.
 
 * Make things use css best-practices instead of ad-hoc per-page, per-element
