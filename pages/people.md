@@ -11,6 +11,7 @@ permalink           : "/people/"
     <div class="columns small-4">
         <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
     </div>
+    <!--<div class="column small-8 align-self-middle" style="webkit-align-self: center;ms-flex-item-align:center;ms-grid-row-align: center;align-self: center;">-->
     <div class="column small-8 align-self-middle">
         <b>Jun Allard</b><br>
         Associate Professor
@@ -23,10 +24,8 @@ permalink           : "/people/"
         <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
     </div>
     <div class="columns small-8">
-        <b>Jun Allard</b><br>
-        Associate Professor
-        Department of Mathematics
-        Department of Physics and Astronomy
+        <b>Jack Corrette</b><br>
+        MSCB PhD student
     </div>
 </div>
 <div class="row">
@@ -34,10 +33,8 @@ permalink           : "/people/"
         <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
     </div>
     <div class="columns small-8">
-        <b>Jun Allard</b><br>
-        Associate Professor<br>
-        Department of Mathematics<br>
-        Department of Physics and Astronomy
+        <b>Trini Nguyen</b><br>
+        MSCB PhD student
     </div>
 </div>
 <div class="row">
@@ -45,19 +42,29 @@ permalink           : "/people/"
         <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
     </div>
     <div class="columns small-8">
-    <div style="display:table;width:100%;height:100%;">
-				<div style="display:table-cell;width:100%;vertical-align:middle;">
-        <b>Jun Allard</b><br>
-        Associate Professor
-        Department of Mathematics
-        Department of Physics and Astronomy
+        <b>Sohyeon Park</b><br>
+        MSCB PhD student
+        co-advised with Xaoyu Shi
     </div>
+</div>
+<div class="row">
+    <div class="columns small-4">
+        <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
     </div>
+    <div class="columns small-8">
+        <b>Dr. Rob Taylor</b><br>
+        PhD in Physics & Astronomy
+        co-advised with Elizabeth Read
     </div>
 </div>
 
+
+
+
+
+
 <div class="row">
-<div class="columns small-8"><h1>PAST MEMBERS</h1></div>
+<div class="columns small-12"><h1>PAST MEMBERS</h1></div>
 </div>
 <div class="row">
     <div class="columns small-4">
@@ -79,6 +86,8 @@ permalink           : "/people/"
 <!-- Photos of fun -->
 <div class="column small-12 medium-12 large-4">
     <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
+    
+    caption of fun 1
 </div>
 <div class="column small-12 medium-12 large-4">
     <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">

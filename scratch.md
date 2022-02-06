@@ -19,18 +19,17 @@ Colors are in _01_settings_colors.scss
 			</div>
 
 
+ style="position: relative;top: 0%;bottom:0%;-webkit-transform: translateY(50%);-moz-transform: translateY(50%);-ms-transform: translateY(50%);-o-transform: translateY(50%);transform: translateY(50%);"
+
+---
 
 # TODO
 
 * [x] Main page: Gutters for small-12, center Twitter feed. Dark-mode twitter feed.
 
-* Get images folder and urlimg working wtf.
+* [x] Get images folder and urlimg working wtf.
 
-* Can we improve the spacing in the title?
-
-* SEO verify ownership for googls: https://support.google.com/webmasters/answer/9008080?hl=en and bing https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b
-
-* Touch up the pub list typography, spacing
+* [x] Touch up the pub list typography, spacing
 
 * Add links to pub list to actual papers.
 
@@ -41,8 +40,27 @@ https://github.com/lepture/github-cards
 
 * Rewrite Science paragraph
 
-* Fix people page
+* People page - get centering working
+
+* Add photos of fun
+
+* Add photos and info for people
+
+* Touch up contact info.
 
 * Copy to new repo, delete all unnecessary files.
 
+---
+
+* Transfer to allardlab and look into domain swap
+
+* SEO verify ownership for googls: 
+	https://support.google.com/webmasters/answer/9008080?hl=en and bing https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b
+
+* Can we improve the spacing in the title?
+
 * What to do about lab manual.
+
+---
+
+* Make things use css best-practices instead of ad-hoc per-page, per-element
