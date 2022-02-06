@@ -31,14 +31,18 @@ Colors are in _01_settings_colors.scss
 
 * [x] Touch up the pub list typography, spacing
 
-* Add links to pub list to actual papers.
+* [x] Add links to pub list to actual papers.
+
+* My phd and MS thesis, and the photos.
 
 * Repos in the software page
 https://github.com/lepture/github-cards
 
-* Rewrite intro paragraph. Our mission statement!
+* [x] Rewrite intro paragraph. Our mission statement!
 
-* Rewrite Science paragraph
+* [x] Rewrite Science paragraph
+
+* We need more tweets and statements about our science! PNAS from Omer.
 
 * People page - get centering working
 
@@ -46,7 +50,7 @@ https://github.com/lepture/github-cards
 
 * Add photos and info for people
 
-* Touch up contact info.
+* [x] Touch up contact info.
 
 * Copy to new repo, delete all unnecessary files.
 

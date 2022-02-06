@@ -48,7 +48,7 @@ homepage: true
   <div class="columns small-12 medium-12 large-7" style="text-align:justify">
 
 <section markdown="1">  
-Cells are nanometer-scale problem solving machines. Our broad goal is to understand how components inside cells push, pull, bend and flow together, and how this helps cells perform tasks and exploit problem solving strategies. We use mathematical and computational modeling, in collaboration with experimentalists at UC Irvine and around the world.
+Cells are nanometer-scale problem solving machines. Our broad goal is to understand how cells use force, space and time to perform tasks and exploit problem solving strategies. We use mathematical and computational modeling, in collaboration with experimentalists at UC Irvine and around the world.
 
 <img src="{{ site.urlimg }}group19su.jpg">
 

@@ -4,17 +4,38 @@ permalink           : "/contact/"
 ---
 
 
-<a href="http://allardlab.com/wp-content/uploads/2014/04/map.jpg"><img src="http://allardlab.com/wp-content/uploads/2014/04/map.jpg" alt="map" width="382" height="499" class="alignright size-full wp-image-108"></a>
+<div class="row">
+  <div class="columns small-12 medium-12 large-7">
 
-E-mail: jun.allard@uci.edu | <a href="https://www.linkedin.com/in/jun-allard-b48aa677/">LinkedIn</a> | <a href="https://github.com/allardjun">GitHub</a>
 
-Office: 440F Rowland Hall
+<h1>CONTACT</h1>
+
+<p>E-mail: jun.allard@uci.edu | <a href="https://www.linkedin.com/in/jun-allard-b48aa677/">LinkedIn</a> | <a href="https://github.com/allardjun">GitHub</a>
+</p>
+
+<section markdown="1" style="text-align:justify">  
+PI Office: 440F Rowland Hall
+
+Allard Lab Offices: 274 Rowland Hall
+
 
 Mailing Address:
-<p class="addressnstuff">
-Jun Allard
-Department of Mathematics,
-340 Rowland Hall
-University of California, Irvine
+Jun Allard <br>
+Department of Mathematics, <br>
+340 Rowland Hall  <br>
+University of California, Irvine  <br>
 Irvine, CA 92697-3875</p>
-<p style="font-size:small;"> Our building is named after <a href="http://en.wikipedia.org/wiki/Frank_Sherwood_Rowland">Sheri Rowland</a>, a UC Irvine scientist who won the Nobel Prize in Chemistry in 1995 for revealing the role of CFCs in damaging the ozone layer.</p>
+
+<p style="font-size:small;"> Our building is named after <a href="http://en.wikipedia.org/wiki/Frank_Sherwood_Rowland">Sheri Rowland</a>, a UC Irvine scientist who won the Nobel Prize in Chemistry in 1995 for revealing the role of CFCs in damaging the ozone layer.
+
+</section>
+</div>
+  <div class="columns small-12 medium-12 large-5" style="text-align:center;">
+
+<img src="{{ site.urlimg }}uci_campus1.jpg">
+
+<img src="{{ site.urlimg }}uci_campus2.jpg">
+
+<img src="{{ site.urlimg }}uci_campus3.jpg">
+</div>
+</div>
