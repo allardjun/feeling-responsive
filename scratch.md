@@ -44,8 +44,6 @@ https://github.com/lepture/github-cards
 
 * [x] Rewrite Science paragraph
 
-
-
 * People page - get centering working
 
 * [x] Add photos of fun
@@ -72,3 +70,6 @@ https://github.com/lepture/github-cards
 * More tweets. Update Pubs. Both with 2x papers (Rob + Omer We need more tweets and statements about our science! PNAS from Omer.
 
 * Make things use css best-practices instead of ad-hoc per-page, per-element
+
+* [x] Why the hell is there a stray </ul> on the pubs page? 
+* [x] And stray </div> on contact page?

@@ -3,84 +3,86 @@ layout              : page-fullwidth
 permalink           : "/people/"
 ---
 
+<style>
+    .peoplewrapper {
+        display: grid;
+        grid-template-columns: 1fr 2fr; 
+        align-items: center;
+        grid-gap: 1em;
+        row-gap: 1em;
+        padding-bottom: 1em;
+    }
+    .peoplephoto {
+        float:right;
+        marginleft:auto;
+        padding-left:1em;       
+    }
+</style>
 
 <div class="row">
 <div class="column small-12 medium-12 large-8">
 
 <div class="row">
-    <div class="columns small-4">
-        <img src="{{ site.urlimg }}photojun.jpg" width="192">
-    </div>
-    <!--<div class="column small-8 align-self-middle" style="webkit-align-self: center;ms-flex-item-align:center;ms-grid-row-align: center;align-self: center;">-->
-    <div class="column small-8 align-self-middle">
-        <b>Jun Allard</b><br>
-        Associate Professor
-        Department of Mathematics
-        Department of Physics and Astronomy
-    </div>
+<div class="columns small-12"><h1>PEOPLE</h1></div>
 </div>
-<div class="row">
-    <div class="columns small-4">
-        <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
+<div class="row align-middle">
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}photojun.jpg" width="192"></div>
+        <div><b>Jun Allard</b><br>
+        Associate Professor, 
+        Department of Mathematics, 
+        Department of Physics and Astronomy</div>
     </div>
-    <div class="columns small-8">
-        <b>Jack Corrette</b><br>
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+        <div><b>Jack Corrette</b><br>
+        MSCB PhD student</div>
+    </div>
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+        <div><b>Trini Nguyen</b><br>
+        MSCB PhD student</div>
+    </div>
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+        <div><b>Sohyeon Park</b><br>
         MSCB PhD student
+        co-advised with Xaoyu Shi</div>
+    </div>
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+        <div><b>Dr. Rob Taylor</b><br>
+        PhD in Physics
+        co-advised with Elizabeth Read</div>
     </div>
 </div>
-<div class="row">
-    <div class="columns small-4">
-        <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
-    </div>
-    <div class="columns small-8">
-        <b>Trini Nguyen</b><br>
-        MSCB PhD student
-    </div>
-</div>
-<div class="row">
-    <div class="columns small-4">
-        <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
-    </div>
-    <div class="columns small-8">
-        <b>Sohyeon Park</b><br>
-        MSCB PhD student
-        co-advised with Xaoyu Shi
-    </div>
-</div>
-<div class="row">
-    <div class="columns small-4">
-        <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
-    </div>
-    <div class="columns small-8">
-        <b>Dr. Rob Taylor</b><br>
-        PhD in Physics & Astronomy
-        co-advised with Elizabeth Read
-    </div>
-</div>
-
-
-
-
-
 
 <div class="row">
 <div class="columns small-12"><h1>PAST MEMBERS</h1></div>
 </div>
-<div class="row">
-    <div class="columns small-4">
-        <img src="{{ site.urlimg }}Afavicon-192x192.png" width="192">
+<div class="row align-middle">
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+        <div><b>Matt Bovyn</b>, PhD 2021</div>
     </div>
-    <div class="columns small-8">
-    <div style="display:table;width:100%;height:100%;">
-				<div style="display:table-cell;width:100%;vertical-align:middle;">
-        <b>Jun Allard</b><br>
-        Associate Professor
-        Department of Mathematics
-        Department of Physics and Astronomy
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+        <div><b>Lara Clemens</b>, PhD 2020</div>
     </div>
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+        <div><b>Kathryn Manakova,</b> PhD 2017</div>
     </div>
+    <div class="peoplewrapper">
+        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+        <div><b>Derek Bryant</b>, PhD 2016</div>
     </div>
-</div>
+    <div>
+        <ul>
+            <li>Clair Goul</li>
+            <li>Whoever else</li>
+        </ul>
+    </div>
 </div>
 
 <!-- Photos of fun -->
