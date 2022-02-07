@@ -56,6 +56,8 @@ https://github.com/lepture/github-cards
 
 * Copy to new repo, delete all unnecessary files.
 
+* More tweets. Update Pubs. Both with 2x papers (Rob + Omer We need more tweets and statements about our science! PNAS from Omer.
+
 ---
 
 * Transfer to allardlab and look into domain swap
@@ -68,7 +70,5 @@ https://github.com/lepture/github-cards
 * What to do about lab manual.
 
 ---
-
-* More tweets. Update Pubs. Both with 2x papers (Rob + Omer We need more tweets and statements about our science! PNAS from Omer.
 
 * Make things use css best-practices instead of ad-hoc per-page, per-element
