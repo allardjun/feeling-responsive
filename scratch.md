@@ -35,30 +35,43 @@ Colors are in _01_settings_colors.scss
 
 * [x] My phd and MS thesis, and the photos.
 
-* Pubs page does not work on Github, but works fine on local!
-
-* Repos in the software page
-https://github.com/lepture/github-cards
-
 * [x] Rewrite intro paragraph. Our mission statement!
 
 * [x] Rewrite Science paragraph
 
-* People page - get centering working
+* [x] People page - get centering working
 
 * [x] Add photos of fun
 
-* Add photos and info for people
-
 * [x] Touch up contact info.
+
+* Repos in the software page
+https://github.com/lepture/github-cards
+
+* People page - Add info for past members
+
+* Add photos and info for people
 
 * Copy to new repo, delete all unnecessary files.
 
 * More tweets. Update Pubs. Both with 2x papers (Rob + Omer We need more tweets and statements about our science! PNAS from Omer.
 
+* Now it looks good on mobile locally. Make it look good on desktop local, mobile github, desktop github, ipad github.
+	- Contact
+	- Home
+	- Science
+	- People
+	- Software
+    - Publications
+
 ---
 
 * Transfer to allardlab and look into domain swap
+
+---
+
+* [x] Why the hell is there a stray </ul> on the pubs page? 
+* [x] And stray </div> on contact page?
 
 * SEO verify ownership for googls: 
 	https://support.google.com/webmasters/answer/9008080?hl=en and bing https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b
@@ -67,9 +80,7 @@ https://github.com/lepture/github-cards
 
 * What to do about lab manual.
 
----
-
 * Make things use css best-practices instead of ad-hoc per-page, per-element
 
-* [x] Why the hell is there a stray </ul> on the pubs page? 
-* [x] And stray </div> on contact page?
+* Center the twitter embeds
+* Color the bold text in Science

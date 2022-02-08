@@ -50,7 +50,7 @@ The mission of our research group is to make *rigorous, relevant and elegant* co
 <div style="text-align:justify">
 <!-- ONLY WHAT's PUBLISHED -->
 <section markdown="1">  
-The *biological functions* we work on include how immune cells read antigen and process information signals using __immuno-receptors__, how the cell's internal skeleton is build using __formins__, how cells in tissues communicate at long distance using __airinemes__. 
+The *biological functions* we work on include how immune cells read antigen and process information signals using __immuno-receptors__, how the cell's internal skeleton is built using __formins__, how cells in tissues communicate at long distance using __airinemes__. 
 </section>
 </div>
 
