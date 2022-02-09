@@ -77,11 +77,33 @@ permalink           : "/people/"
         <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
         <div><b>Derek Bryant</b>, PhD 2016</div>
     </div>
-    <div>
-        <ul>
-            <li>Clair Goul</li>
-            <li>Whoever else</li>
+    <div> <!-- OTHER PAST -->
+        <ul style="padding-left: 1rem">
+            <li>Post-doctoral researchers
+            <ul>
+                <li>Kai Liu (joint with John Lowengrub)</li>
+            </ul>
+            </li>
+            <li>Rotation students
+             <ul>
+                <li>Maryam Amran, MCBU</li>
+                <li>Jihye Choi, MCBU</li>
+                <li>Natalie Congdon, MCBU</li>
+                <li>Joanna Fan, MathExplr</li>
+                <li>Claire Goul</li>
+                <li>Nayeon Kim, MCBU</li>
+                <li>Mary Jane O'Neill, MCBU</li>
+                <li>Rochelle Radzyminski, MCBU</li>
+                <li>Daniel Ramirez, MCSB</li>
+                <li>Patrick Webb, Math undergrad researcher/MCBU</li>
+                <li>Jie (Nicole) Zhang, MCBU</li>
+                <li>Katie Lynch, MathBioU</li>
+                <li>Poorvi Rao, MathBioU</li>
+                <li>Lorenzo Alesiani, MathBioU</li>
+            </ul>
+            </li>
         </ul>
+        <hr>
     </div>
 </div>
 
