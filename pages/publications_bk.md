@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications.html
+permalink: /publications/
 homepage: false
 ---
 
