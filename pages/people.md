@@ -20,7 +20,7 @@ permalink           : "/people/"
 </style> -->
 
 <div class="row"> <!-- This should contain everything on this page content: both people and fun photos-->
-    <div class="column small-12 medium-12 large-8"> <!-- Column to contain all people content -->
+    <div class="columns small-12 medium-12 large-8"> <!-- Column to contain all people content -->
         <div class="row">
             <div class="columns small-12">
                 <h1>PEOPLE</h1>
