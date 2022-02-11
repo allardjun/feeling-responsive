@@ -19,93 +19,96 @@ permalink           : "/people/"
     }
 </style>
 
-<div class="row">
-<div class="column small-12 medium-12 large-8">
-
-<div class="row">
-<div class="columns small-12"><h1>PEOPLE</h1></div>
-</div>
-<div class="row align-middle">
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}photojun.jpg" width="192"></div>
-        <div><b>Jun Allard</b><br>
-        Associate Professor, 
-        Department of Mathematics, 
-        Department of Physics and Astronomy</div>
-    </div>
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
-        <div><b>Jack Corrette</b><br>
-        MSCB PhD student</div>
-    </div>
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
-        <div><b>Trini Nguyen</b><br>
-        MSCB PhD student</div>
-    </div>
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
-        <div><b>Sohyeon Park</b><br>
-        MSCB PhD student
-        co-advised with Xaoyu Shi</div>
-    </div>
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
-        <div><b>Dr. Rob Taylor</b><br>
-        PhD in Physics
-        co-advised with Elizabeth Read</div>
-    </div>
-</div>
-
-<div class="row">
-<div class="columns small-12"><h1>PAST MEMBERS</h1></div>
-</div>
-<div class="row align-middle">
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
-        <div><b>Matt Bovyn</b>, PhD 2021</div>
-    </div>
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
-        <div><b>Lara Clemens</b>, PhD 2020</div>
-    </div>
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
-        <div><b>Kathryn Manakova,</b> PhD 2017</div>
-    </div>
-    <div class="peoplewrapper">
-        <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
-        <div><b>Derek Bryant</b>, PhD 2016</div>
-    </div>
-    <div> <!-- OTHER PAST -->
-        <ul style="padding-left: 1rem">
-            <li>Post-doctoral researchers
-            <ul>
-                <li>Kai Liu (joint with John Lowengrub)</li>
-            </ul>
-            </li>
-            <li>Rotation students
-             <ul>
-                <li>Maryam Amran, MCBU</li>
-                <li>Jihye Choi, MCBU</li>
-                <li>Natalie Congdon, MCBU</li>
-                <li>Joanna Fan, MathExplr</li>
-                <li>Claire Goul</li>
-                <li>Nayeon Kim, MCBU</li>
-                <li>Mary Jane O'Neill, MCBU</li>
-                <li>Rochelle Radzyminski, MCBU</li>
-                <li>Daniel Ramirez, MCSB</li>
-                <li>Patrick Webb, Math undergrad researcher/MCBU</li>
-                <li>Jie (Nicole) Zhang, MCBU</li>
-                <li>Katie Lynch, MathBioU</li>
-                <li>Poorvi Rao, MathBioU</li>
-                <li>Lorenzo Alesiani, MathBioU</li>
-            </ul>
-            </li>
-        </ul>
-        <hr>
-    </div>
-</div>
+<div class="row"> <!-- This should contain everything on this page content: both people and fun photos-->
+    <div class="column small-12 medium-12 large-8"> <!-- Column to contain all people content -->
+        <div class="row">
+            <div class="columns small-12">
+                <h1>PEOPLE</h1>
+            </div>
+        </div>
+        <div class="row align-middle">
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}photojun.jpg" width="192"></div>
+                <div><b>Jun Allard</b><br>
+                Associate Professor, 
+                Department of Mathematics, 
+                Department of Physics and Astronomy</div>
+            </div>
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+                <div><b>Jack Corrette</b><br>
+                MSCB PhD student</div>
+            </div>
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+                <div><b>Trini Nguyen</b><br>
+                MSCB PhD student</div>
+            </div>
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+                <div><b>Sohyeon Park</b><br>
+                MSCB PhD student
+                co-advised with Xaoyu Shi</div>
+            </div>
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+                <div><b>Dr. Rob Taylor</b><br>
+                PhD in Physics
+                co-advised with Elizabeth Read</div>
+            </div>
+        </div> <!-- Done row with current people -->
+        <div class="row"> <!-- past members section -->
+            <div class="columns small-12">
+                <h1>PAST MEMBERS</h1>
+            </div>
+        </div>
+        <div class="row align-middle"> <!-- Row with all past people -->
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+                <div><b>Matt Bovyn</b>, PhD 2021</div>
+            </div>
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+                <div><b>Lara Clemens</b>, PhD 2020</div>
+            </div>
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+                <div><b>Kathryn Manakova,</b> PhD 2017</div>
+            </div>
+            <div class="peoplewrapper">
+                <div><img class="peoplephoto" src="{{ site.urlimg }}Afavicon-192x192.png" width="192"></div>
+                <div><b>Derek Bryant</b>, PhD 2016</div>
+            </div>
+            <div> <!-- OTHER PAST -->
+                <ul style="padding-left: 1rem">
+                    <li>Post-doctoral researchers
+                    <ul>
+                        <li>Kai Liu (joint with John Lowengrub)</li>
+                    </ul>
+                    </li>
+                    <li>Rotation students
+                    <ul>
+                        <li>Maryam Amran, MCBU</li>
+                        <li>Jihye Choi, MCBU</li>
+                        <li>Natalie Congdon, MCBU</li>
+                        <li>Joanna Fan, MathExplr</li>
+                        <li>Claire Goul</li>
+                        <li>Nayeon Kim, MCBU</li>
+                        <li>Mary Jane O'Neill, MCBU</li>
+                        <li>Rochelle Radzyminski, MCBU</li>
+                        <li>Daniel Ramirez, MCSB</li>
+                        <li>Patrick Webb, Math undergrad researcher/MCBU</li>
+                        <li>Jie (Nicole) Zhang, MCBU</li>
+                        <li>Katie Lynch, MathBioU</li>
+                        <li>Poorvi Rao, MathBioU</li>
+                        <li>Lorenzo Alesiani, MathBioU</li>
+                    </ul>
+                    </li>
+                </ul>
+                <hr>
+            </div>
+        </div> <!-- Done row with all past people -->
+    </div> <!-- Done column that contains all people content-->
 
 <!-- Photos of fun -->
 <!-- 2019 -->
@@ -150,6 +153,6 @@ permalink           : "/people/"
 <div class="column small-12 medium-12 large-4">
     <img src="{{ site.urlimg }}photogroup390px.jpeg">
 </div>
-</div> <!-- done row -->
+
 
 

@@ -50,6 +50,8 @@ https://github.com/lepture/github-cards
 
 * People page - Add info for past members
 
+* People page - Layout for desktop (without breaking mobile)
+
 * Add photos and info for people
 
 * Copy to new repo, delete all unnecessary files.
@@ -84,3 +86,5 @@ https://github.com/lepture/github-cards
 
 * Center the twitter embeds
 * Color the bold text in Science
+
+(18 remaining)
