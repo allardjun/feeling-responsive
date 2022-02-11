@@ -3,7 +3,7 @@ layout              : page-fullwidth
 permalink           : "/people/"
 ---
 
-<style>
+<!-- <style>
     .peoplewrapper {
         display: grid;
         grid-template-columns: 1fr 2fr; 
@@ -17,7 +17,7 @@ permalink           : "/people/"
         marginleft:auto;
         padding-left:1em;       
     }
-</style>
+</style> -->
 
 <div class="row"> <!-- This should contain everything on this page content: both people and fun photos-->
     <div class="column small-12 medium-12 large-8"> <!-- Column to contain all people content -->
