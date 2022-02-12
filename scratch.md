@@ -84,3 +84,5 @@ Colors are in _01_settings_colors.scss
 
 * Center the twitter embeds
 * Color the bold text in Science
+
+(18 remaining)
