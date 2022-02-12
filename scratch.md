@@ -45,24 +45,22 @@ Colors are in _01_settings_colors.scss
 
 * [x] Touch up contact info.
 
-* Repos in the software page
-https://github.com/lepture/github-cards
+* [x] Repos in the software page https://github.com/lepture/github-cards
 
-* People page - Add info for past members
+* [x] People page - Add info for past members
 
-* Add photos and info for people
-
-* Copy to new repo, delete all unnecessary files.
-
-* More tweets. Update Pubs. Both with 2x papers (Rob + Omer We need more tweets and statements about our science! PNAS from Omer.
-
-* Now it looks good on mobile locally. Make it look good on desktop local, mobile github, desktop github, ipad github.
+* Now it looks good on mobile locally. Make it look good on 
+			desktop local, mobile github, desktop github, ipad github.
 	- Contact
 	- Home
 	- Science
 	- People
 	- Software
     - Publications
+
+* Copy to new repo, delete all unnecessary files.
+
+* More tweets. Update Pubs. Both with 2x papers (Rob + Omer We need more tweets and statements about our science! PNAS from Omer.
 
 ---
 
@@ -72,6 +70,8 @@ https://github.com/lepture/github-cards
 
 * [x] Why the hell is there a stray </ul> on the pubs page? 
 * [x] And stray </div> on contact page?
+
+* Add photos and info for people
 
 * SEO verify ownership for googls: 
 	https://support.google.com/webmasters/answer/9008080?hl=en and bing https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b
